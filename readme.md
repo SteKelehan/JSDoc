@@ -1,0 +1,1 @@
+This is a sample script readme. This JSDoc is soo cool 
